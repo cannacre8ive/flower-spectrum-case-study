@@ -1,0 +1,90 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "bytes": 159892,
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/walkthrough/",
+    "status": 200,
+    "bytes": 7828,
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/method/",
+    "status": 200,
+    "bytes": 25529,
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/evidence/",
+    "status": 200,
+    "bytes": 8476,
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/examples/study-01.pdf",
+    "status": 200,
+    "bytes": 4987,
+    "contentType": "application/pdf"
+  },
+  {
+    "path": "/examples/study-02.pdf",
+    "status": 200,
+    "bytes": 4848,
+    "contentType": "application/pdf"
+  },
+  {
+    "path": "/examples/study-03.pdf",
+    "status": 200,
+    "bytes": 4697,
+    "contentType": "application/pdf"
+  },
+  {
+    "path": "/social-preview.jpg",
+    "status": 200,
+    "bytes": 75567,
+    "contentType": "image/jpeg"
+  },
+  {
+    "path": "/product/classifier.jpg",
+    "status": 200,
+    "bytes": 75859,
+    "contentType": "image/jpeg"
+  },
+  {
+    "path": "/product/labels.jpg",
+    "status": 200,
+    "bytes": 78189,
+    "contentType": "image/jpeg"
+  },
+  {
+    "path": "/product/print-menu.jpg",
+    "status": 200,
+    "bytes": 64326,
+    "contentType": "image/jpeg"
+  },
+  {
+    "path": "/favicon.svg",
+    "status": 200,
+    "bytes": 224,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "bytes": 407,
+    "contentType": "application/xml"
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "bytes": 90,
+    "contentType": "text/plain; charset=utf-8"
+  },
+  {
+    "path": "/not-a-real-page",
+    "status": 404
+  }
+]

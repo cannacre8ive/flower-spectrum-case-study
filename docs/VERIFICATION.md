@@ -17,7 +17,7 @@ Release date: October 23, 2026 (America/Los_Angeles).
 
 ## Release checks
 
-Production deployment, stable routes, live PDF flow and preservation checks are recorded in `RELEASE.md` and `qa/` after publication.
+Production deployment is READY. Four pages and ten other public assets returned HTTP 200; unknown routes return 404. The live PDF → review → Partner B story → menu PDF flow passed with no console warnings or errors. All four original deployments retained identical homepage checksums. Full records are in `RELEASE.md` and `qa/`.
 
 ## Limits
 
