@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "route": "/",
+      "brokenImages": [],
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "route": "/walkthrough/",
+      "brokenImages": [],
+      "scrollWidth": 320,
+      "width": 320,
+      "note": "Empty output images are hidden and have no source until review. Generated output checked separately."
+    },
+    {
+      "route": "/method/",
+      "brokenImages": [],
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "route": "/evidence/",
+      "brokenImages": [],
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "route": "/",
+      "brokenImages": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "route": "/walkthrough/",
+      "brokenImages": [],
+      "scrollWidth": 390,
+      "width": 390,
+      "note": "Empty output images are hidden and have no source until review. Generated output checked separately."
+    },
+    {
+      "route": "/method/",
+      "brokenImages": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "route": "/evidence/",
+      "brokenImages": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "route": "/",
+      "brokenImages": [],
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "route": "/walkthrough/",
+      "brokenImages": [],
+      "scrollWidth": 1440,
+      "width": 1440,
+      "note": "Empty output images are hidden and have no source until review. Generated output checked separately."
+    },
+    {
+      "route": "/method/",
+      "brokenImages": [],
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "route": "/evidence/",
+      "brokenImages": [],
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "generatedOutputs": [
+    {
+      "brokenVisibleImages": [],
+      "record": "FS-STUDY-01 · 2.30% total terpenes · study-01.pdf",
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "brokenVisibleImages": [],
+      "record": "FS-STUDY-01 · 2.30% total terpenes · study-01.pdf",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "brokenVisibleImages": [],
+      "record": "FS-STUDY-01 · 2.30% total terpenes · study-01.pdf",
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ]
+}

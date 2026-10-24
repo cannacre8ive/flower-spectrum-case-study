@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/cannacre8ive/flower-spectrum-suite",
+  "commit": "a6b34f3",
+  "files": [
+    {
+      "path": "source/flower-spectrum-suite/src/data/engine-terpenes.js",
+      "source": "src/data/engine-terpenes.js",
+      "sha256": "89e13150a3cc074a125107db6eca5067cd42c264abbc62c83fcd128ee16e5c8c"
+    },
+    {
+      "path": "source/flower-spectrum-suite/src/data/profiles.js",
+      "source": "src/data/profiles.js",
+      "sha256": "e664ba550b4c8cf70f1b7e552c938a255cf296a04f64c587ed26718af4ae1064"
+    },
+    {
+      "path": "source/flower-spectrum-suite/src/lib/classifier.js",
+      "source": "src/lib/classifier.js",
+      "sha256": "ea1d96d1178fbe6991b1d14f6694214674df0b00132652133a1549cbd2b04510"
+    },
+    {
+      "path": "source/flower-spectrum-suite/src/lib/coa-import.js",
+      "source": "src/lib/coa-import.js",
+      "sha256": "7688a3aa5e9738bebd6abbb11fe63d54151ecf7b63e14e1c6e4725ee12a70472"
+    },
+    {
+      "path": "source/flower-spectrum-suite/src/lib/coa-aliases.js",
+      "source": "src/lib/coa-aliases.js",
+      "sha256": "6636de27551f3fbd61f506a7e56022de340b191680e6956b7c4c29fbc12e2219"
+    },
+    {
+      "path": "source/flower-spectrum-suite/src/lib/pdf.js",
+      "source": "src/lib/pdf.js",
+      "sha256": "9850e01ea2bb002379a2e0eaf6fe8826858087f445ddb6e2e9e98e044b76da27"
+    }
+  ]
+}

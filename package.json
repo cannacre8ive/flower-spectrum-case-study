@@ -1,0 +1,24 @@
+{
+  "name": "flower-spectrum-case-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4192",
+    "build": "node scripts/fixtures.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4192",
+    "test": "node --test tests/*.test.js",
+    "check": "npm test && npm run build"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "jspdf": "4.2.1",
+    "pdfjs-dist": "6.3.289"
+  },
+  "devDependencies": {
+    "vite": "8.3.5"
+  }
+}

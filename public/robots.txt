@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flower-spectrum-case-study.vercel.app/sitemap.xml

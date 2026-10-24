@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://flower-spectrum-suite.vercel.app/",
+    "status": 200,
+    "sha256": "2419a82fe1474b3a650321e5f53679bd7fc15a4015129448127a28bdfcf8a0ef"
+  },
+  {
+    "url": "https://flower-spectrum-coa-classifier.vercel.app/",
+    "status": 200,
+    "sha256": "9e3dfbbf2849d22426d05112e03457e8a66c6dc4f992c2f9775e72a32af7fb5d"
+  },
+  {
+    "url": "https://flower-spectrum-menu-gen-v2.vercel.app/",
+    "status": 200,
+    "sha256": "f98b93d58c1fd4f8c9a0e6d000db19af84bebbfb00fdbbb53099ede87001d85f"
+  },
+  {
+    "url": "https://presswrk-studio.vercel.app/",
+    "status": 200,
+    "sha256": "80e532479b9e581c3e58616c408750ec02146c2fa1baa8662a6a3c66b2899cee"
+  }
+]
